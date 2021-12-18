@@ -3,6 +3,12 @@ Tibber lightsensor is a plugin for Homebridge.
 
 It fetches the current watt usage of your house and displays it as a lightsensor (lux) in Homekit. Using a built in timer, it can update the Home app UI with a new value as often as you'd like (default value is set to update once each second).
 
+Example: 10 Watt from Tibber API is displayed as 10 lux in Home app.
+
+## Screenshots
+
+[![tibber.png](https://i.postimg.cc/gkVDqs5c/tibber.png)](https://postimg.cc/sv273Ysb)
+
 ## Installation 
 This plugin is published on [npm](https://www.npmjs.com/package/homebridge-tibber-lightsensor) and should be installed globally using:
 
