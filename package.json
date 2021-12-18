@@ -1,0 +1,35 @@
+{
+  "name": "homebridge-tibber-lightsensor",
+  "description": "Tibber Watt usage as lux",
+  "version": "1.0.0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/runbert/homebridge-tibber-lightsensor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/runbert/homebridge-tibber-lightsensor/issues"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "tibber",
+    "tibber-api",
+    "tibber-lightsensor",
+    "tibber-lux",
+    "homekit",
+    "tibber consumption",
+    "tibber watt usage",
+    "tibber lux"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.5"
+  },
+  "author": {
+    "name": "Johan Runbert"
+  },
+  "dependencies": {
+    "homebridge-http-base": "1.0.0",
+    "tibber-api": "3.0.0"
+  }
+}
