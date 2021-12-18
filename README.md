@@ -7,7 +7,7 @@ Example: 10 Watt from Tibber API is displayed as 10 lux in Home app.
 
 ## Screenshots
 
-[![tibber.png](https://i.postimg.cc/gkVDqs5c/tibber.png)](https://postimg.cc/sv273Ysb)
+![tibber.png](https://i.postimg.cc/gkVDqs5c/tibber.png)
 
 ## Installation 
 This plugin is published on [npm](https://www.npmjs.com/package/homebridge-tibber-lightsensor) and should be installed globally using:
