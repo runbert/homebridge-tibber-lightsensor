@@ -1,3 +1,5 @@
+[![npm](https://badgen.net/npm/v/homebridge-tibber-lightsensor/latest?icon=npm&label)](https://www.npmjs.com/package/homebridge-tibber-lightsensor)
+
 # homebridge-tibber-lightsensor
 Tibber lightsensor is a plugin for Homebridge.
 
@@ -52,7 +54,7 @@ You can now add these values to your homebridge config.json like the example bel
     ],
 ...
 ```
-The pullInterval is how often the lightsensor should be updated with a new value in ms. In our example above it is set to 1 second (1000 ms).
+The `pullInterval` is how often the lightsensor should be updated with a new value in ms. In our example above it is set to 1 second (1000 ms).
 
 Restart homebridge, and you should now see a lightsensor accessory in one of your rooms displaying real time data from Tibber. 
 
