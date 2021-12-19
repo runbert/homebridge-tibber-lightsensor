@@ -1,4 +1,5 @@
-[![npm](https://badgen.net/npm/v/homebridge-tibber-lightsensor/latest?icon=npm&label)](https://www.npmjs.com/package/homebridge-tibber-lightsensor)
+[![npm](https://badgen.net/npm/v/homebridge-tibber-lightsensor/latest)](https://www.npmjs.com/package/homebridge-tibber-lightsensor)
+[![Try homebridge-tibber-lightsensor on RunKit](https://badge.runkitcdn.com/homebridge-tibber-lightsensor.svg)](https://npm.runkit.com/homebridge-tibber-lightsensor)
 
 # homebridge-tibber-lightsensor
 Tibber lightsensor is a plugin for Homebridge.
