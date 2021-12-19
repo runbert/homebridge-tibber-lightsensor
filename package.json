@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "homebridge-http-base": "1.0.0",
-    "tibber-api": "3.0.0"
+    "tibber-api": "3.0.1"
   }
 }
