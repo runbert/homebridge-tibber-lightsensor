@@ -2,7 +2,7 @@
 [![Try homebridge-tibber-lightsensor on RunKit](https://badge.runkitcdn.com/homebridge-tibber-lightsensor.svg)](https://npm.runkit.com/homebridge-tibber-lightsensor)
 
 # homebridge-tibber-lightsensor
-:zap: Tibber lightsensor is a plugin for Homebridge and makes it possible to see your real time power consumption from Tibber in iOS/Homekit without the need to install a third party app!
+Tibber lightsensor is a plugin for Homebridge which makes it possible to see your real time power consumption from Tibber in iOS/Homekit without the need to install a third party app!
 
 :bulb: The plugin fetches the current watt usage from your Tibber Pulse and displays it as a lightsensor (lux) in Homekit. Using a built in timer, it can update the Home app UI with a new value as often as you'd like. For instance 10 Watt from Tibber API is displayed as 10 lux in Home app.
 
