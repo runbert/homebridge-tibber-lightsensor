@@ -27,7 +27,9 @@ You will also need two API tokens from Tibber. One personal token, and your hous
 > https://developer.tibber.com/
 
 ## Installation 
-This plugin is published on [npm](https://www.npmjs.com/package/homebridge-tibber-lightsensor) and should be installed globally using:
+This plugin is published on [npm](https://www.npmjs.com/package/homebridge-tibber-lightsensor) and can be installed through Config UI X / Plugins. 
+
+If you're running an old version of homebrdige or don't have Config UI X installed, you can install it manually using:
 
 `npm install -g homebridge-tibber-lightsensor`
 
